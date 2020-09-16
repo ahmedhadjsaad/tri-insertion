@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rcheckpoint-JSX.git/static/css/main.1db78f72.chunk.css",
+    "main.js": "/rcheckpoint-JSX.git/static/js/main.1b922cc4.chunk.js",
+    "main.js.map": "/rcheckpoint-JSX.git/static/js/main.1b922cc4.chunk.js.map",
+    "runtime-main.js": "/rcheckpoint-JSX.git/static/js/runtime-main.1d635342.js",
+    "runtime-main.js.map": "/rcheckpoint-JSX.git/static/js/runtime-main.1d635342.js.map",
+    "static/js/2.997915af.chunk.js": "/rcheckpoint-JSX.git/static/js/2.997915af.chunk.js",
+    "static/js/2.997915af.chunk.js.map": "/rcheckpoint-JSX.git/static/js/2.997915af.chunk.js.map",
+    "index.html": "/rcheckpoint-JSX.git/index.html",
+    "precache-manifest.5eba73a42c496ce8b59b56534eed00cc.js": "/rcheckpoint-JSX.git/precache-manifest.5eba73a42c496ce8b59b56534eed00cc.js",
+    "service-worker.js": "/rcheckpoint-JSX.git/service-worker.js",
+    "static/css/main.1db78f72.chunk.css.map": "/rcheckpoint-JSX.git/static/css/main.1db78f72.chunk.css.map",
+    "static/js/2.997915af.chunk.js.LICENSE.txt": "/rcheckpoint-JSX.git/static/js/2.997915af.chunk.js.LICENSE.txt",
+    "static/media/image.jpg": "/rcheckpoint-JSX.git/static/media/image.cbce1e0b.jpg",
+    "static/media/logo.svg": "/rcheckpoint-JSX.git/static/media/logo.5d5d9eef.svg",
+    "static/media/v.mp4": "/rcheckpoint-JSX.git/static/media/v.7bbc2686.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d635342.js",
+    "static/js/2.997915af.chunk.js",
+    "static/css/main.1db78f72.chunk.css",
+    "static/js/main.1b922cc4.chunk.js"
+  ]
+}
