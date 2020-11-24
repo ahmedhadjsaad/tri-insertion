@@ -33,6 +33,7 @@ export const addToCart = (product) => (dispatch ,getState ) => {
     dispatch({
         type : ADD_TO_CART,
         payload : product
+        
     })
 
 }
